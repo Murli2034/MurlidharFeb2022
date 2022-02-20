@@ -9,6 +9,7 @@ public class Github1 {
   //every day before starting work we have to pull code from main/master branch 
   // at the end of every day individual must have to push his own code in his own repository  or branch 
 System.out.println("hello my self murlidhar munde ");
+System.out.println("i am software tester");
 	}
 
 }
